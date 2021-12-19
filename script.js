@@ -40,4 +40,4 @@ for (let i = 0; i < killArray.length; i++) {
     HIT.appendChild(div)
 }
 
-document.getElementById("footer").innerHTML = "Jinka naam S se start hot hai unhi ke saath lafda hota hai"
+document.getElementById("footer").innerHTML = "Jinka naam S se start hota hai unhi ke saath mera lafda hota rehta hai"
